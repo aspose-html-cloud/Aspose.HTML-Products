@@ -11,47 +11,47 @@ url: /family
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.HTML Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud for cURL" imgSrc="/sdk/aspose_html-for-curl.png" productLink="/html/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud for cURL" imgSrc="/sdk/aspose_html-for-curl.png" productLink="/html/curl/" >}}
 Use cURL commands to access HTML documents hosted on the cloud. Render & convert HTML pages.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_html-for-net.png" productLink="/html/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_html-for-net.png" productLink="/html/net/" >}}
 Enable your C#, ASP.NET, and other .NET cloud-based applications to process, render, & convert HTML documents.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Java" imgSrc="/sdk/aspose_html-for-java.png" productLink="/html/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Java" imgSrc="/sdk/aspose_html-for-java.png" productLink="/html/java/" >}}
 Build cloud-based apps in Java to fetch HTML documents from cloud storage for rendering & converting HTML pages.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for C++" imgSrc="/sdk/aspose_html-for-cpp.png" productLink="/html/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for C++" imgSrc="/sdk/aspose_html-for-cpp.png" productLink="/html/cpp/" >}}
 Build, render, & convert HTML documents in the cloud via your cloud-based C++ applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_html-for-php.png" productLink="/html/php" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_html-for-php.png" productLink="/html/php/" >}}
 Easily develop cloud-based HTML renderer, & converter applications using PHP REST SDK.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Android" imgSrc="/sdk/aspose_html-for-android.png" productLink="/html/android" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Android" imgSrc="/sdk/aspose_html-for-android.png" productLink="/html/android/" >}}
 Make your own cloud-based HTML converter & renderer Android Apps by utilizing our easy-to-use Cloud SDK.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Python" imgSrc="/sdk/aspose_html-for-python.png" productLink="/html/python" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Python" imgSrc="/sdk/aspose_html-for-python.png" productLink="/html/python/" >}}
 Build Python-based HTML processing & manipulation applications for the cloud to render & convert HTML documents.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_html-for-ruby.png" productLink="/html/ruby" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_html-for-ruby.png" productLink="/html/ruby/" >}}
 Making cloud-based Ruby Apps to render, & convert HTML pages has never been easier than this.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_html-for-node.png" productLink="/html/nodejs" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_html-for-node.png" productLink="/html/python/" >}}
 Enhance your Node.js code with this SDK to build HTML page rendering, & conversion Apps in Node.js.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Swift" imgSrc="/sdk/aspose_html-for-swift.png" productLink="/html/swift" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Swift" imgSrc="/sdk/aspose_html-for-swift.png" productLink="/html/swift/" >}}
 Perform easy rendering, & conversion of HTML cloud documents within your Swift apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Go" imgSrc="/sdk/aspose_html-for-go.png" productLink="/html/go" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Go" imgSrc="/sdk/aspose_html-for-go.png" productLink="/html/go/" >}}
 Use Golang for creating cloud-based HTML Documents converter & renderer applications.
 {{< /blocks/products/pf/product >}}
 
