@@ -11,15 +11,15 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.HTML Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud for cURL" imgSrc="/sdk/aspose_html-for-curl.png" >}}
+{{< blocks/products/pf/product productLink="html/curl/" pfName="Aspose.HTML" title="Cloud for cURL" imgSrc="/sdk/aspose_html-for-curl.png" >}}
 Process your HTML pages stored on the cloud using cURL commands via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_html-for-net.png" >}}
+{{< blocks/products/pf/product productLink="html/net/" pfName="Aspose.HTML" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_html-for-net.png" >}}
 Enhance your C# & other .NET supported language code to convert & render HTML pages in the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Java" imgSrc="/sdk/aspose_html-for-java.png" >}}
+{{< blocks/products/pf/product productLink="html/java/" pfName="Aspose.HTML" title="Cloud SDK for Java" imgSrc="/sdk/aspose_html-for-java.png" >}}
 Easily build Java apps to fetch HTML pages from cloud storage for rendering and conversion.
 {{< /blocks/products/pf/product >}}
 
@@ -29,29 +29,29 @@ Easily build Java apps to fetch HTML pages from cloud storage for rendering and 
 
 {{< blocks/products/pf/product-card-row title="Aspose.HTML On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/html/net/" pfName="Aspose.HTML for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png" >}}
 Build desktop or web-based apps via native .NET API to create, render & convert HTML files.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-java.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/html/java/" pfName="Aspose.HTML for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-java.png" >}}
 Develop HTML renderer & converter apps in Java for desktop & web via easy Java API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/html/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/html/family/" innerText="View All On Premise APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< blocks/products/pf/product-card-row title="Aspose.HTML Cross Platform Apps Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/html/conversion" pfName="Aspose.HTML" title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" >}}
 Free online app to convert HTML, EPUB, SVG to PDF, XPS, MD (Markdown), MHTML, BMP, PNG, TIFF, JPG.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/html/viewer" pfName="Aspose.HTML" title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" >}}
 Free online app to view your HTML, XHTML, MHTML, EPUB or SVG file in the browser.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Parser" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_parser-app.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/html/parser" pfName="Aspose.HTML" title="Parser" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_parser-app.png" >}}
 Free online parsing app to extract your images & text from HTML, XHTML, MHTML, SVG or EPUB file.
 {{< /blocks/products/pf/product >}}
 
