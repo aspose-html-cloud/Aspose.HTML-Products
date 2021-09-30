@@ -6,11 +6,11 @@ url: /net
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build HTML Converter & Renderer via C# REST SDK" h2="C# Cloud SDK to help you render & convert HTML documents stored on the cloud." logoImageSrc="/headers/aspose_html-for-net.png" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Build HTML Converter & Renderer via C# REST SDK" h2="C# Cloud SDK to help you render & convert HTML documents stored on the cloud." logoImageSrc="/headers/aspose_html-for-net.svg" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for .NET" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="Cloud SDK for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-net.png"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-dotnet" liveDemosLink="https://products.aspose.app/html/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-net.svg"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-dotnet" liveDemosLink="https://products.aspose.app/html/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.HTML Cloud SDK for .NET helps programmers build cloud-based HTML converter, renderer and translator applications in C#, ASP.NET and other .NET programming languages. Fetch the desired HTML document from the cloud and perform the required functions, such as, use the XPath query to extract all images from the HTML page.</p>
@@ -34,7 +34,7 @@ url: /net
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_html-for-net.png" alt=".NET HTML Cloud"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_html-for-net.svg" alt=".NET HTML Cloud"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -76,7 +76,7 @@ url: /net
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_html-for-net.png" alt=".NET Cloud SDK for HTML"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_html-for-net.svg" alt=".NET Cloud SDK for HTML"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -209,27 +209,27 @@ Console.ReadKey();</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.HTML" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/html/curl/" imgSrc="/sdk/aspose_html-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/curl/" imgSrc="/sdk/aspose_html-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/net/" imgSrc="/sdk/aspose_html-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/net/" imgSrc="/sdk/aspose_html-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="/sdk/aspose_html-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="/sdk/aspose_html-for-java.svg" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/cpp/" imgSrc="/sdk/aspose_html-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/cpp/" imgSrc="/sdk/aspose_html-for-cpp.svg" platform="C++" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/php/" imgSrc="/sdk/aspose_html-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/php/" imgSrc="/sdk/aspose_html-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/android/" imgSrc="/sdk/aspose_html-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/android/" imgSrc="/sdk/aspose_html-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/python/" imgSrc="/sdk/aspose_html-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/python/" imgSrc="/sdk/aspose_html-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/ruby/" imgSrc="/sdk/aspose_html-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/ruby/" imgSrc="/sdk/aspose_html-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/nodejs/" imgSrc="/sdk/aspose_html-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/nodejs/" imgSrc="/sdk/aspose_html-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/swift/" imgSrc="/sdk/aspose_html-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/swift/" imgSrc="/sdk/aspose_html-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/go/" imgSrc="/sdk/aspose_html-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/go/" imgSrc="/sdk/aspose_html-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

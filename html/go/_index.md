@@ -6,11 +6,11 @@ url: /go
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="REST SDK for Golang to Process HTML Docs in Cloud" h2="Easy Golang Cloud SDK to convert HTML documents and render HTML pages in the cloud using Go language." logoImageSrc="/headers/aspose_html-for-go.png" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="REST SDK for Golang to Process HTML Docs in Cloud" h2="Easy Golang Cloud SDK to convert HTML documents and render HTML pages in the cloud using Go language." logoImageSrc="/headers/aspose_html-for-go.svg" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for Go" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="Cloud SDK for Go" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-go.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-go" liveDemosLink="https://products.aspose.app/html/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-go.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-go" liveDemosLink="https://products.aspose.app/html/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.HTML Cloud SDK for Go helps Golang programmers to easily create robust cloud-based applications for processing web-based (HTML, MHTML, XHTML, JSON) documents in the cloud, without installing any third-party software. Our Golang Cloud SDK is built as a wrapper around Aspose Go REST API and is offered under an MIT license.</p>
@@ -35,7 +35,7 @@ url: /go
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_html-for-go.png" alt="go HTML Cloud"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Go</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_html-for-go.svg" alt="go HTML Cloud"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Go</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -77,7 +77,7 @@ url: /go
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_html-for-go.png" alt="go Cloud SDK for HTML"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Go</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_html-for-go.svg" alt="go Cloud SDK for HTML"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Go</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -195,27 +195,27 @@ url: /go
 
 {{< blocks/products/pf/offers-section pfName="Aspose.HTML" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/html/curl/" imgSrc="/sdk/aspose_html-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/curl/" imgSrc="/sdk/aspose_html-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/net/" imgSrc="/sdk/aspose_html-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/net/" imgSrc="/sdk/aspose_html-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="/sdk/aspose_html-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="/sdk/aspose_html-for-java.svg" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/cpp/" imgSrc="/sdk/aspose_html-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/cpp/" imgSrc="/sdk/aspose_html-for-cpp.svg" platform="C++" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/php/" imgSrc="/sdk/aspose_html-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/php/" imgSrc="/sdk/aspose_html-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/android/" imgSrc="/sdk/aspose_html-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/android/" imgSrc="/sdk/aspose_html-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/python/" imgSrc="/sdk/aspose_html-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/python/" imgSrc="/sdk/aspose_html-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/ruby/" imgSrc="/sdk/aspose_html-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/ruby/" imgSrc="/sdk/aspose_html-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/nodejs/" imgSrc="/sdk/aspose_html-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/nodejs/" imgSrc="/sdk/aspose_html-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/swift/" imgSrc="/sdk/aspose_html-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/swift/" imgSrc="/sdk/aspose_html-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/go/" imgSrc="/sdk/aspose_html-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/go/" imgSrc="/sdk/aspose_html-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

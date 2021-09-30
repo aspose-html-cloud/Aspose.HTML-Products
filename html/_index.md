@@ -6,20 +6,20 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="HTML Renderer & Converter Solution" h2="On premise APIs & Cloud REST APIs to build desktop, web & cloud-based applications to process, render & convert HTML pages." logoImageSrc="/headers/aspose_html-brand.png" imageAlt="" >}}
+{{< blocks/products/pf/family-upper-banner h1="HTML Renderer & Converter Solution" h2="On premise APIs & Cloud REST APIs to build desktop, web & cloud-based applications to process, render & convert HTML pages." logoImageSrc="/headers/aspose_html-brand.svg" imageAlt="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.HTML Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="/html/curl/" pfName="Aspose.HTML" title="Cloud for cURL" imgSrc="/sdk/aspose_html-for-curl.png" >}}
+{{< blocks/products/pf/product productLink="/html/curl/" pfName="Aspose.HTML" title="Cloud for cURL" imgSrc="/sdk/aspose_html-for-curl.svg" >}}
 Process your HTML pages stored on the cloud using cURL commands via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="/html/net/" pfName="Aspose.HTML" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_html-for-net.png" >}}
+{{< blocks/products/pf/product productLink="/html/net/" pfName="Aspose.HTML" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_html-for-net.svg" >}}
 Enhance your C# & other .NET supported language code to convert & render HTML pages in the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="/html/java/" pfName="Aspose.HTML" title="Cloud SDK for Java" imgSrc="/sdk/aspose_html-for-java.png" >}}
+{{< blocks/products/pf/product productLink="/html/java/" pfName="Aspose.HTML" title="Cloud SDK for Java" imgSrc="/sdk/aspose_html-for-java.svg" >}}
 Easily build Java apps to fetch HTML pages from cloud storage for rendering and conversion.
 {{< /blocks/products/pf/product >}}
 

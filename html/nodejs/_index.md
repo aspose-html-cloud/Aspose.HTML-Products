@@ -6,11 +6,11 @@ url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js REST SDK to Convert & Render HTML Docs" h2="Cloud SDK to empower your Node.js Apps to perform rendering of cloud-based HTML pages, and convert HTML to other formats." logoImageSrc="/headers/aspose_html-for-node.png" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js REST SDK to Convert & Render HTML Docs" h2="Cloud SDK to empower your Node.js Apps to perform rendering of cloud-based HTML pages, and convert HTML to other formats." logoImageSrc="/headers/aspose_html-for-node.svg" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for Node.js" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="Cloud SDK for Node.js" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-node.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-nodejs" liveDemosLink="https://products.aspose.app/html/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-node.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-nodejs" liveDemosLink="https://products.aspose.app/html/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.HTML Cloud SDK for Node.js makes your Node.js cloud-based applications able to access HTML documents from cloud storage and render them in their native format or any of the other supported formats, e.g., PDF, XPS, JPEG, TIFF, PNG, etc.</p>
@@ -36,7 +36,7 @@ url: /nodejs
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_html-for-node.png" alt="Node.js HTML Cloud"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_html-for-node.svg" alt="Node.js HTML Cloud"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -78,7 +78,7 @@ url: /nodejs
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_html-for-node.png" alt="Node.js Cloud SDK for HTML"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_html-for-node.svg" alt="Node.js Cloud SDK for HTML"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -196,27 +196,27 @@ url: /nodejs
 
 {{< blocks/products/pf/offers-section pfName="Aspose.HTML" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/html/curl/" imgSrc="/sdk/aspose_html-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/curl/" imgSrc="/sdk/aspose_html-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/net/" imgSrc="/sdk/aspose_html-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/net/" imgSrc="/sdk/aspose_html-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="/sdk/aspose_html-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="/sdk/aspose_html-for-java.svg" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/cpp/" imgSrc="/sdk/aspose_html-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/cpp/" imgSrc="/sdk/aspose_html-for-cpp.svg" platform="C++" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/php/" imgSrc="/sdk/aspose_html-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/php/" imgSrc="/sdk/aspose_html-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/android/" imgSrc="/sdk/aspose_html-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/android/" imgSrc="/sdk/aspose_html-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/python/" imgSrc="/sdk/aspose_html-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/python/" imgSrc="/sdk/aspose_html-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/ruby/" imgSrc="/sdk/aspose_html-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/ruby/" imgSrc="/sdk/aspose_html-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/nodejs/" imgSrc="/sdk/aspose_html-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/nodejs/" imgSrc="/sdk/aspose_html-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/swift/" imgSrc="/sdk/aspose_html-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/swift/" imgSrc="/sdk/aspose_html-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/go/" imgSrc="/sdk/aspose_html-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/go/" imgSrc="/sdk/aspose_html-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

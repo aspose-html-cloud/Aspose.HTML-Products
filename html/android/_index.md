@@ -6,11 +6,11 @@ url: /android
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android REST SDK to Create HTML Converter & Renderer Apps" h2="Build Android Apps via our cloud SDK to access HTML pages on the cloud, render & convert HTML to other file formats." logoImageSrc="/headers/aspose_html-for-android.png" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for Android" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Android REST SDK to Create HTML Converter & Renderer Apps" h2="Build Android Apps via our cloud SDK to access HTML pages on the cloud, render & convert HTML to other file formats." logoImageSrc="/headers/aspose_html-for-android.svg" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for Android" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="SDK for Android" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-android.png"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-android" liveDemosLink="https://products.aspose.app/html/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-android.svg"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-android" liveDemosLink="https://products.aspose.app/html/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.HTML Cloud SDK for Android enables you to seamlessly provide HTML processing and manipulation functionality within your Android Apps. You can create all sorts of cool Android-based Apps, such as HTML Converter to convert to and from web-based formats (HTML, XHTML, MHTML, JSON) with support for converting HTML to PDF, XPS, HTML containing SVG markup, Markdown, and various image formats, e.g. JPEG, TIFF, PNG, BMP, GIF etc.</p>
@@ -34,7 +34,7 @@ url: /android
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_html-for-android.png" alt="android HTML Cloud"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_html-for-android.svg" alt="android HTML Cloud"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -76,7 +76,7 @@ url: /android
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_html-for-android.png" alt="android Cloud SDK for HTML"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_html-for-android.svg" alt="android Cloud SDK for HTML"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>Android</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -194,27 +194,27 @@ url: /android
 
 {{< blocks/products/pf/offers-section pfName="Aspose.HTML" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/html/curl/" imgSrc="/sdk/aspose_html-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/curl/" imgSrc="/sdk/aspose_html-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/net/" imgSrc="/sdk/aspose_html-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/net/" imgSrc="/sdk/aspose_html-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="/sdk/aspose_html-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="/sdk/aspose_html-for-java.svg" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/cpp/" imgSrc="/sdk/aspose_html-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/cpp/" imgSrc="/sdk/aspose_html-for-cpp.svg" platform="C++" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/php/" imgSrc="/sdk/aspose_html-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/php/" imgSrc="/sdk/aspose_html-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/android/" imgSrc="/sdk/aspose_html-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/android/" imgSrc="/sdk/aspose_html-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/python/" imgSrc="/sdk/aspose_html-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/python/" imgSrc="/sdk/aspose_html-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/ruby/" imgSrc="/sdk/aspose_html-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/ruby/" imgSrc="/sdk/aspose_html-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/nodejs/" imgSrc="/sdk/aspose_html-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/nodejs/" imgSrc="/sdk/aspose_html-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/swift/" imgSrc="/sdk/aspose_html-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/swift/" imgSrc="/sdk/aspose_html-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/go/" imgSrc="/sdk/aspose_html-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/go/" imgSrc="/sdk/aspose_html-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -6,11 +6,11 @@ url: /php
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Create HTML Renderer & Converter via PHP REST SDK" h2="Use PHP to easily fetch HTML documents from cloud storage for rendering and convert HTML to other formats." logoImageSrc="/headers/aspose_html-for-php.png" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Create HTML Renderer & Converter via PHP REST SDK" h2="Use PHP to easily fetch HTML documents from cloud storage for rendering and convert HTML to other formats." logoImageSrc="/headers/aspose_html-for-php.svg" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="Cloud SDK for PHP" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-php.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-php" liveDemosLink="https://products.aspose.app/html/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-php.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-php" liveDemosLink="https://products.aspose.app/html/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.HTML Cloud SDK for PHP helps you utilize your PHP code to access HTML documents saved on cloud storage and perform various processing and manipulation operations on them.</p>
@@ -35,7 +35,7 @@ url: /php
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_html-for-php.png" alt="php HTML Cloud"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_html-for-php.svg" alt="php HTML Cloud"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -77,7 +77,7 @@ url: /php
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_html-for-php.png" alt="php Cloud SDK for HTML"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_html-for-php.svg" alt="php Cloud SDK for HTML"><header>Aspose.HTML</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -195,27 +195,27 @@ url: /php
 
 {{< blocks/products/pf/offers-section pfName="Aspose.HTML" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/html/curl/" imgSrc="/sdk/aspose_html-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/curl/" imgSrc="/sdk/aspose_html-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/net/" imgSrc="/sdk/aspose_html-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/net/" imgSrc="/sdk/aspose_html-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="/sdk/aspose_html-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="/sdk/aspose_html-for-java.svg" platform="Java" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/cpp/" imgSrc="/sdk/aspose_html-for-cpp.png" platform="C++" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/cpp/" imgSrc="/sdk/aspose_html-for-cpp.svg" platform="C++" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/php/" imgSrc="/sdk/aspose_html-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/php/" imgSrc="/sdk/aspose_html-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/android/" imgSrc="/sdk/aspose_html-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/android/" imgSrc="/sdk/aspose_html-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/python/" imgSrc="/sdk/aspose_html-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/python/" imgSrc="/sdk/aspose_html-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/ruby/" imgSrc="/sdk/aspose_html-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/ruby/" imgSrc="/sdk/aspose_html-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/html/nodejs/" imgSrc="/sdk/aspose_html-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/nodejs/" imgSrc="/sdk/aspose_html-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/swift/" imgSrc="/sdk/aspose_html-for-swift.png" platform="Swift" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/swift/" imgSrc="/sdk/aspose_html-for-swift.svg" platform="Swift" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/html/go/" imgSrc="/sdk/aspose_html-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/html/go/" imgSrc="/sdk/aspose_html-for-go.svg" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
