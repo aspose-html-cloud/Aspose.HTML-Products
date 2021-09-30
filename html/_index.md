@@ -29,11 +29,11 @@ Easily build Java apps to fetch HTML pages from cloud storage for rendering and 
 
 {{< blocks/products/pf/product-card-row title="Aspose.HTML On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/html/net/" pfName="Aspose.HTML for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/html/net/" pfName="Aspose.HTML for " title=".NET" imgSrc="/product-logos/aspose_html-for-net.svg" >}}
 Build desktop or web-based apps via native .NET API to create, render & convert HTML files.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/html/java/" pfName="Aspose.HTML for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-java.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/html/java/" pfName="Aspose.HTML for " title="Java" imgSrc="/product-logos/aspose_html-for-java.svg" >}}
 Develop HTML renderer & converter apps in Java for desktop & web via easy Java API.
 {{< /blocks/products/pf/product >}}
 
