@@ -6,11 +6,11 @@ url: /cpp
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="REST API to Build HTML Renderer, Converter in C++" h2="C++ Cloud SDK to create renderer & converter applications to process HTML pages in the cloud." logoImageSrc="/sdk/aspose_html-for-cpp.svg" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for C++" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="REST API to Build HTML Renderer, Converter in C++" h2="C++ Cloud SDK to create renderer & converter applications to process HTML pages in the cloud." logoImageSrc="/headers/aspose_html-for-cpp.svg" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for C++" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="Cloud SDK for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/headers/aspose_html-for-cpp.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-cpp" liveDemosLink="https://products.aspose.app/html/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-cpp.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-cpp" liveDemosLink="https://products.aspose.app/html/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>With Aspose.HTML Cloud SDK for C++ you can seamlessly integrate various sorts of handy features in your cloud-based C++ applications for processing and manipulating web-based (HTML, XHTML, MHTML, JSON) pages stored in the cloud storage.</p>
