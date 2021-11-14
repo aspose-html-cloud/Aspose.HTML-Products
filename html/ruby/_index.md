@@ -6,7 +6,7 @@ url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build HTML Converter & Translator in Ruby via REST API" h2="Helps your Ruby code to fetch, render, and convert HTML pages stored in the cloud to other file formats." logoImageSrc="/headers/aspose_html-for-ruby.svg" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Build HTML Parsing & Converter Apps in Ruby via REST API" h2="Helps your Ruby code to fetch, render, and convert HTML pages stored in the cloud to other file formats." logoImageSrc="/headers/aspose_html-for-ruby.svg" pfName="Aspose.HTML" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="Cloud SDK for Ruby" >}}
 

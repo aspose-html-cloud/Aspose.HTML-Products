@@ -14,7 +14,7 @@ url: /android
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.HTML Cloud SDK for Android enables you to seamlessly provide HTML processing and manipulation functionality within your Android Apps. You can create all sorts of cool Android-based Apps, such as HTML Converter to convert to and from web-based formats (HTML, XHTML, MHTML, JSON) with support for converting HTML to PDF, XPS, HTML containing SVG markup, Markdown, and various image formats, e.g. JPEG, TIFF, PNG, BMP, GIF etc.</p>
-<p>Similarly, you can use Aspose.HTML Cloud SDK for Android to easily create HTML Renderer and Translator Apps for Android. It allows you to fetch HTML pages from cloud storage and render them in native HTML format or in any of the other supported formats.</p>
+<p>Similarly, you can use Aspose.HTML Cloud SDK for Android to easily create HTML Renderer Apps for Android. It allows you to fetch HTML pages from cloud storage and render them in native HTML format or in any of the other supported formats.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->

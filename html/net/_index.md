@@ -13,7 +13,7 @@ url: /net
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-net.svg"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-dotnet" liveDemosLink="https://products.aspose.app/html/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.HTML Cloud SDK for .NET helps programmers build cloud-based HTML converter, renderer and translator applications in C#, ASP.NET and other .NET programming languages. Fetch the desired HTML document from the cloud and perform the required functions, such as, use the XPath query to extract all images from the HTML page.</p>
+<p>Aspose.HTML Cloud SDK for .NET helps programmers build cloud-based HTML converter, renderer applications in C#, ASP.NET and other .NET programming languages. Fetch the desired HTML document from the cloud and perform the required functions, such as, use the XPath query to extract all images from the HTML page.</p>
 <p>Aspose.HML Cloud SDK for .NET provides extensive support for converting HTML format files to other formats, such as, HTML to JSON, HTML to PDF, HTML to HTML containing SVG markup, HTML to ZIP (images) and HTML to popular image formats.</p>
 {{< /blocks/products/pf/tab-content >}}
 
