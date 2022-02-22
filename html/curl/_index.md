@@ -14,7 +14,7 @@ url: /curl
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.HTML Cloud for cURL assists developers in easy and straight-forward cloud-based manipulation of HTML documents using cURL. No software download or install required. Using Aspose.HTML Cloud for cURL, you can create HTML parser and converter applications for the cloud.</p>
-<p>It can convert HTML document to fixed layout document formats such as PDF, XPS or to raster image formats including JPEG, PNG, BMP or TIFF. You may choose to render a complete HTML file or render only specific HTML pages.Aspose.HTML Cloud for cURL ensures that the converted files are produced according to the target file's standards and specifications so that the resultant file can easily be loaded within their native applications.</p>
+<p>It can convert HTML document to fixed layout document formats such as PDF, XPS or to raster image formats including JPEG, PNG, BMP or TIFF. You may choose to render a complete HTML file or render only specific HTML pages. Aspose.HTML Cloud for cURL ensures that the converted files are produced according to the target file's standards and specifications so that the resultant file can easily be loaded within their native applications.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
