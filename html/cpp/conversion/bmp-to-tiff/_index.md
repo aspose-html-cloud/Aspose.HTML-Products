@@ -1,0 +1,1 @@
+---title: Convert BMP to TIFF via Cpp SDK in Clouddescription: Cloud APIs & SDKs to Convert BMP to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
