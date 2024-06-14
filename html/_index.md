@@ -59,6 +59,7 @@ Free online parsing app to extract your images & text from HTML, XHTML, MHTML, S
 
 {{< /blocks/products/pf/product-card-row >}}
 
+{{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/testimonials successStoryLink="https://downloads.aspose.com/corporate/success-stories/aspose.total/" title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." >}}
 
