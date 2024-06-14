@@ -27,9 +27,13 @@ url: /curl
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa fa-cogs"> </i>Overview</header>
 <ul>
-<li>Render HTML pages</li>
-<li>Populate document template</li>
-<li>Page format conversion</li>
+<li>Convert HTML to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, GIF, Markdown, and MHTML.</li>
+<li>Convert XHTML to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, GIF, Markdown, and MHTML.</li>
+<li>Convert EPUB to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, and GIF.</li>
+<li>Convert MHTML to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, GIF, and HTML.</li>
+<li>Convert Markdown to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, and GIF.</li>
+<li>Convert SVG to different formats including PDF, XPS, JPEG, PNG, TIFF, BMP, and GIF.</li>
+<li>Vectorize Image formats PNG, JPEG, BMP, TIFF, and GIF to SVG</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -45,33 +49,23 @@ url: /curl
 <div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input/Output</header>
 <ul>
 <li>HTML</li>
-<li>XHTML</li>
-<li>zipped HTML</li>
-<li>zipped XHTML</li>
 <li>MHTML</li>
-<li>HTML containing SVG markup</li>
+<li>SVG</li>
 <li>Markdown</li>
-<li>JSON</li>
+<li>IMAGE (JPG, PNG, TIFF, BMP, GIF)</li>
 </ul>
 <header><i class="fa fa-arrows-v "> </i> Input Only</header>
 <ul>
 <li>EPUB</li>
-<li>XML</li>
-<li>SVG</li>
+<li>XHTML</li>
+<li>DOC, DOCX</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Output Only</header>
+<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Output Only</header>
 <ul>
 <li>PDF</li>
 <li>XPS</li>
-<li>TIFF</li>
-<li>JPEG</li>
-<li>PNG</li>
-<li>BMP</li>
-<li>GIF</li>
-<li>TXT</li>
-<li>ZIP(images)</li>
 </ul>
 </div>
 <!--/right--></div>
