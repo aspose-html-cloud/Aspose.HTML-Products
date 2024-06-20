@@ -102,13 +102,6 @@ url: /curl
     </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-download ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Get all image of HTML page in ZIP package by page URL
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
