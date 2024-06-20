@@ -95,13 +95,6 @@ url: /curl
    <p>
    </p>
    <div class="col-lg-4">
-    <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Get HTML page with all linked resources as ZIP by page URL
-    </p>
-   </div>
-   <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
