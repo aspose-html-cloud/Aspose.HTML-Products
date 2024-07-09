@@ -13,8 +13,7 @@ url: /cpp
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-cpp.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-cpp" liveDemosLink="https://products.aspose.app/html/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>With Aspose.HTML Cloud SDK for C++ you can seamlessly integrate various sorts of handy features in your cloud-based C++ applications for processing and manipulating web-based (HTML, XHTML, MHTML, JSON) pages stored in the cloud storage.</p>
-<p>It enables your C++ application to convert HTML to PDF with PDF file encryption. You can also choose to render a complete HTML document or select specific pages to perform the conversion.</p>
+<p>Aspose.HTML Cloud offers functionality to convert HTML files into various fixed-layout document formats such as PDF, XPS, and DOCX; raster image formats including JPEG, PNG, TIFF, BMP, and GIF; and MD and MHTML formats. Additionally, it provides the capability to vectorize images by converting JPEG, PNG, TIFF, BMP, and GIF files to SVG.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -27,9 +26,9 @@ url: /cpp
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa fa-cogs"> </i>Overview</header>
 <ul>
-<li>Render HTML pages</li>
-<li>Populate document template</li>
-<li>Page format conversion</li>
+<li>Convert HTML to PDF, to Image, to SVG</li>
+<li>Vectorize images by converting JPEG, PNG, TIFF, BMP, and GIF files to SVG</li>
+<li>Convert Markdown to HTML, to PDF</li><li>Convert SVG to PDF, to Image</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -42,36 +41,26 @@ url: /cpp
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input/Output</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Input/Output</header>
 <ul>
 <li>HTML</li>
-<li>XHTML</li>
-<li>zipped HTML</li>
-<li>zipped XHTML</li>
 <li>MHTML</li>
-<li>HTML containing SVG markup</li>
+<li>SVG</li>
 <li>Markdown</li>
-<li>JSON</li>
+<li>IMAGE (JPG, PNG, TIFF, BMP, GIF)</li>
 </ul>
-<header><i class="fa fa-arrows-v "> </i> Input Only</header>
+<header><i class="fa fa-arrows-v"> </i> Input Only</header>
 <ul>
 <li>EPUB</li>
-<li>XML</li>
-<li>SVG</li>
+<li>XHTML</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Output Only</header>
+<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Output Only</header>
 <ul>
 <li>PDF</li>
 <li>XPS</li>
-<li>TIFF</li>
-<li>JPEG</li>
-<li>PNG</li>
-<li>BMP</li>
-<li>GIF</li>
-<li>TXT</li>
-<li>ZIP(images)</li>
+<li>DOC, DOCX</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -172,7 +161,7 @@ url: /cpp
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/html" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-html-cloud/aspose-html-cloud-cpp" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/html/" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://api.aspose.cloud/v4.0/html/swagger/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

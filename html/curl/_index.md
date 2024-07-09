@@ -46,7 +46,7 @@ url: /curl
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input/Output</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Input/Output</header>
 <ul>
 <li>HTML</li>
 <li>MHTML</li>
@@ -54,11 +54,10 @@ url: /curl
 <li>Markdown</li>
 <li>IMAGE (JPG, PNG, TIFF, BMP, GIF)</li>
 </ul>
-<header><i class="fa fa-arrows-v "> </i> Input Only</header>
+<header><i class="fa fa-arrows-v"> </i> Input Only</header>
 <ul>
 <li>EPUB</li>
 <li>XHTML</li>
-<li>DOC, DOCX</li>
 </ul>
 </div>
 <!--/left-->
@@ -66,6 +65,7 @@ url: /curl
 <ul>
 <li>PDF</li>
 <li>XPS</li>
+<li>DOC, DOCX</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -90,44 +90,66 @@ url: /curl
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced HTML Processing Features
+    Conversion API Features
    </h2>
    <p>
    </p>
-   <div class="col-lg-4">
+   <div class="col-lg-3">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use XPath query to fetch list of matching HTML fragments
+     Convert HTML to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, GIF, Markdown, and MHTML
     </p>
    </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-image-o ico-blue fa-2x col-lg-2">
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use CSS selector to fetch list of matching HTML fragments
+     Convert XHTML to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, GIF, Markdown, and MHTML.
     </p>
    </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Populate HTML document template by loading data from local file
+     Convert EPUB to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, and GIF.
     </p>
    </div>
-   <div class="col-lg-4">
-    <em class="fa fa-lock ico-blue fa-2x col-lg-2">
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Populate HTML document template with data via Request Body
+     Convert MHTML to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, GIF, and HTML.
     </p>
    </div>
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Convert Markdown to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, and GIF.
+    </p>
+   </div>
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Convert SVG to different formats including PDF, XPS, JPEG, PNG, TIFF, BMP, and GIF.
+    </p>
+   </div>
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Vectorize Image formats PNG, JPEG, BMP, TIFF, and GIF to SVG
+    </p>
+   </div>
+
    <div class="col-lg-12">
     <h2 class="h2title">
-     Get Started with HTML Processing REST API
+     Get Started with Aspose.HTML Cloud Conversion API v4.0
     </h2>
     <p>
-     It is easy to get started with Aspose.HTML Cloud for cURL as you need nothing to install. Simply create an account at
+     Aspose.HTML Cloud API v4.0 provides the simplest API to convert HTML files to one of the fixed-layout document formats including PDF, XPS and DOCX; to raster image formats including JPEG, PNG, TIFF, BMP, and GIF; to MD, EPUB and MHTML formats. You can convert the HTML document to any supported formats either from the storage by its name or from the web by its URL. Simply create an account at
      <a href="https://dashboard.aspose.cloud/#/apps">
       Aspose for Cloud
      </a>
@@ -139,7 +161,7 @@ url: /curl
      Extensive Support for HTML Page Conversion
     </h2>
     <p>
-     Aspose.HTML Cloud for cURL can fetch HTML document from storage location by its name and convert it to specified image format, or PDF, XPS, and markdown to save it to storage. You can also convert the HTML document from the storage or request stream by its name to the specified image format or PDF, XPS, and Markdown then save it to storage. Aspose.HTML Cloud for cURL also allows you to get HTML page from the web by its URL and convert it to specified image format, or other formats, such as PDF, XPS, and MHTML.
+     The REST API supports a set of converting between formats. You can take a source document from cloud storage or a local file system. The following conversions are available.
     </p>
    </div>
   </div>
@@ -153,7 +175,7 @@ url: /curl
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/html" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-html-cloud/" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/html/" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://api.aspose.cloud/v4.0/html/swagger/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

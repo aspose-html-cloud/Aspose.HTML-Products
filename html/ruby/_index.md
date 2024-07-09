@@ -13,8 +13,7 @@ url: /ruby
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_html-for-ruby.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/html" directDownloadLink="https://github.com/aspose-html-cloud/aspose-html-cloud-ruby" liveDemosLink="https://products.aspose.app/html/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.HTML Cloud SDK for Ruby assists Ruby programmers in rapidly developing cloud-based Ruby applications for processing and manipulation of HTML documents in the cloud. This easy-to-use HTML Cloud SDK is offered under an MIT license and is built as a wrapper around a REST API.</p>
-<p>Aspose.HTML Cloud SDK for Ruby allows your Ruby-based cloud applications to access cloud storage and fetch HTML documents from it to perform further operations. Our HTML Cloud SDK empowers your Ruby code to create HTML Render with ease that can render HTML documents in their native format or render in various other supported formats (e.g. PDF, XPS, JSON, raster images, etc.).</p>
+<p>Aspose.HTML Cloud SDK for Ruby offers functionality to convert HTML files into various fixed-layout document formats such as PDF, XPS, and DOCX; raster image formats including JPEG, PNG, TIFF, BMP, and GIF; and MD and MHTML formats. Additionally, it provides the capability to vectorize images by converting JPEG, PNG, TIFF, BMP, and GIF files to SVG.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -27,9 +26,9 @@ url: /ruby
 <!--/left-->
 <div class="d1-col d1-right"><header><i class="fa fa-cogs"> </i>Features</header>
 <ul>
-<li>Render HTML pages</li>
-<li>Populate document template</li>
-<li>Page format conversion</li>
+<li>Convert HTML to PDF, to Image, to SVG</li>
+<li>Vectorize images by converting JPEG, PNG, TIFF, BMP, and GIF files to SVG</li>
+<li>Convert Markdown to HTML, to PDF</li><li>Convert SVG to PDF, to Image</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -42,36 +41,26 @@ url: /ruby
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" >}}
 <div class="diagram1 d2  d1-cloud">
 <div class="d1-row">
-<div class="d1-col d1-left"><header><i class="fa fa-arrows-v "> </i> Input/Output</header>
+<div class="d1-col d1-left"><header><i class="fa fa-arrows-v"> </i> Input/Output</header>
 <ul>
 <li>HTML</li>
-<li>XHTML</li>
-<li>zipped HTML</li>
-<li>zipped XHTML</li>
 <li>MHTML</li>
-<li>HTML containing SVG markup</li>
+<li>SVG</li>
 <li>Markdown</li>
-<li>JSON</li>
+<li>IMAGE (JPG, PNG, TIFF, BMP, GIF)</li>
 </ul>
-<header><i class="fa fa-arrows-v "> </i> Input Only</header>
+<header><i class="fa fa-arrows-v"> </i> Input Only</header>
 <ul>
 <li>EPUB</li>
-<li>XML</li>
-<li>SVG</li>
+<li>XHTML</li>
 </ul>
 </div>
 <!--/left-->
-<div class="d1-col d1-right"><header><i class="fa  fa-mail-forward"> </i> Output Only</header>
+<div class="d1-col d1-right"><header><i class="fa fa-mail-forward"> </i> Output Only</header>
 <ul>
 <li>PDF</li>
 <li>XPS</li>
-<li>TIFF</li>
-<li>JPEG</li>
-<li>PNG</li>
-<li>BMP</li>
-<li>GIF</li>
-<li>TXT</li>
-<li>ZIP(images)</li>
+<li>DOC, DOCX</li>
 </ul>
 </div>
 <!--/right--></div>
@@ -96,50 +85,57 @@ url: /ruby
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced HTML Processing Features
+    Advanced Conversion Features
    </h2>
    <p>
    </p>
-   <div class="col-lg-4">
-    <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Get HTML page with all linked resources as ZIP by page URL
-    </p>
-   </div>
-   <div class="col-lg-4">
-    <em class="fa fa-download ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Get all image of HTML page in ZIP package by page URL
-    </p>
-   </div>
-   <div class="col-lg-4">
+    <div class="col-lg-3">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use XPath query to fetch list of matching HTML fragments
+     Convert HTML to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, GIF, Markdown, and MHTML
     </p>
    </div>
-   <div class="col-lg-4">
-    <em class="fa fa-file-image-o ico-blue fa-2x col-lg-2">
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use CSS selector to fetch list of matching HTML fragments
+     Convert XHTML to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, GIF, Markdown, and MHTML.
     </p>
    </div>
-   <div class="col-lg-4">
-    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Populate HTML document template by loading data from local file
+     Convert EPUB to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, and GIF.
     </p>
    </div>
-   <div class="col-lg-4">
-    <em class="fa fa-lock ico-blue fa-2x col-lg-2">
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Populate HTML document template with data via Request Body
+     Convert MHTML to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, GIF, and HTML.
+    </p>
+   </div>
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Convert Markdown to different formats including PDF, XPS, DOC, DOCX, JPEG, PNG, TIFF, BMP, and GIF.
+    </p>
+   </div>
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Convert SVG to different formats including PDF, XPS, JPEG, PNG, TIFF, BMP, and GIF.
+    </p>
+   </div>
+   <div class="col-lg-3">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Vectorize Image formats PNG, JPEG, BMP, TIFF, and GIF to SVG
     </p>
    </div>
    <div class="col-lg-12">
@@ -172,7 +168,7 @@ url: /ruby
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/html" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-html-cloud/aspose-html-cloud-ruby" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/html/" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://api.aspose.cloud/v4.0/html/swagger/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

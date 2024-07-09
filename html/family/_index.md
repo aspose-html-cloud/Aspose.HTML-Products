@@ -62,7 +62,7 @@ Use Golang for creating cloud-based HTML Documents converter & renderer applicat
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/html" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-html-cloud/" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/html/" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://api.aspose.cloud/v4.0/html/swagger/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
