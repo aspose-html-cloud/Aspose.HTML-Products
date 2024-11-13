@@ -1,1 +1,0 @@
----title: Convert BMP to GIF via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert BMP to GIF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

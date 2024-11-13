@@ -1,1 +1,0 @@
----title: Convert EPUB to GIF via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert EPUB to GIF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

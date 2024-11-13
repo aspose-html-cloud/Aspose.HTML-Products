@@ -1,1 +1,0 @@
----title: Convert HTML to DOCX via Ruby SDK in Clouddescription: Cloud APIs & SDKs to Convert HTML to DOCX. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

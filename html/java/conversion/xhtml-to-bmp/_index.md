@@ -1,1 +1,0 @@
----title: Convert XHTML to BMP via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert XHTML to BMP. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

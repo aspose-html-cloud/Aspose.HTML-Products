@@ -1,1 +1,0 @@
----title: Convert JPEG to PDF via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert JPEG to PDF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,0 @@
----title: Convert BMP to PNG via Nodejs SDK in Clouddescription: Cloud APIs & SDKs to Convert BMP to PNG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

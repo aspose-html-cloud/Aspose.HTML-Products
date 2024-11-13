@@ -1,1 +1,0 @@
----title: Convert TIFF to XPS via Python SDK in Clouddescription: Cloud APIs & SDKs to Convert TIFF to XPS. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

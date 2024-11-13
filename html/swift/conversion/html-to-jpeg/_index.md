@@ -1,1 +1,0 @@
----title: Convert HTML to JPEG via Swift SDK in Clouddescription: Cloud APIs & SDKs to Convert HTML to JPEG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

@@ -1,1 +1,0 @@
----title: Convert JPEG to TIFF via Curl SDK in Clouddescription: Cloud APIs & SDKs to Convert JPEG to TIFF. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

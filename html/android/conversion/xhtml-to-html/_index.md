@@ -1,1 +1,0 @@
----title: Convert XHTML to HTML via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert XHTML to HTML. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

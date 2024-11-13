@@ -1,1 +1,0 @@
----title: Convert PNG to BMP via Android SDK in Clouddescription: Cloud APIs & SDKs to Convert PNG to BMP. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---

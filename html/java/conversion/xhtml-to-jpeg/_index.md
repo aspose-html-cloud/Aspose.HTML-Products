@@ -1,1 +1,0 @@
----title: Convert XHTML to JPEG via Java SDK in Clouddescription: Cloud APIs & SDKs to Convert XHTML to JPEG. Also Create, Edit & Render Microsoft Word & OpenOffice documents in the Cloud.---
